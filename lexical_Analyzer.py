@@ -1,6 +1,3 @@
-# Name : Ahmed Rohail Awan
-# Reg # 200901124
-
 import re
 def lexical_analyzer(exp):
     # Define regular expressions for identifiers, constants, operators, punctuator and special character
